@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Sans-IT/Jaya-Frozen-Food.git/static/css/main.9167a81c.css",
-    "main.js": "/Sans-IT/Jaya-Frozen-Food.git/static/js/main.29bd8b4c.js",
-    "static/media/LogoFrozenFood.png": "/Sans-IT/Jaya-Frozen-Food.git/static/media/LogoFrozenFood.6c417a6642afc568d464.png",
-    "index.html": "/Sans-IT/Jaya-Frozen-Food.git/index.html",
-    "main.9167a81c.css.map": "/Sans-IT/Jaya-Frozen-Food.git/static/css/main.9167a81c.css.map",
-    "main.29bd8b4c.js.map": "/Sans-IT/Jaya-Frozen-Food.git/static/js/main.29bd8b4c.js.map"
+    "main.css": "/Jaya-Frozen-Food/static/css/main.9167a81c.css",
+    "main.js": "/Jaya-Frozen-Food/static/js/main.d264294d.js",
+    "static/media/LogoFrozenFood.png": "/Jaya-Frozen-Food/static/media/LogoFrozenFood.6c417a6642afc568d464.png",
+    "index.html": "/Jaya-Frozen-Food/index.html",
+    "main.9167a81c.css.map": "/Jaya-Frozen-Food/static/css/main.9167a81c.css.map",
+    "main.d264294d.js.map": "/Jaya-Frozen-Food/static/js/main.d264294d.js.map"
   },
   "entrypoints": [
     "static/css/main.9167a81c.css",
-    "static/js/main.29bd8b4c.js"
+    "static/js/main.d264294d.js"
   ]
 }
